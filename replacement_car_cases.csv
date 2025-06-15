@@ -1,0 +1,101 @@
+case_id,customer_name,accident_date,request_date,delivery_date,rental_company,car_brand,complaint_made,complaint_reason,rental_duration_days,delivery_delay_hours
+1,Thomas Parks,2025-02-26,2025-02-26,2025-02-27,Sixt,Fiat,False,,27,47
+1,Kristen Grant,2025-04-25,2025-04-28,2025-04-28,Enterprise,Fiat,False,,3,1
+1,Amanda Gilmore,2025-05-09,2025-05-11,2025-05-12,Avis,Toyota,False,,20,43
+1,Michael Harris,2025-01-13,2025-01-13,2025-01-15,Sixt,Renault,False,,16,61
+1,Jeffrey Stanley,2025-01-04,2025-01-04,2025-01-04,Avis,Toyota,False,,18,14
+1,Marvin Mitchell,2025-03-24,2025-03-25,2025-03-25,Zeplin,Fiat,False,,17,17
+1,Jesse Lamb,2025-02-05,2025-02-07,2025-02-07,Sixt,Toyota,False,,2,2
+1,Wendy Davis,2025-05-01,2025-05-02,2025-05-04,Grenta,Toyota,False,,27,65
+1,John Palmer,2025-05-20,2025-05-23,2025-05-24,Sixt,Renault,False,,2,39
+1,Benjamin Chapman,2025-03-16,2025-03-18,2025-03-19,Sixt,Hyundai,True,no GPS,22,37
+1,Jeffrey Smith,2024-12-19,2024-12-20,2024-12-20,Avis,Toyota,False,,26,17
+1,Deborah Turner,2025-04-10,2025-04-11,2025-04-12,Sixt,Fiat,True,delay,10,32
+1,Zachary Flores,2025-01-28,2025-01-29,2025-01-30,Grenta,Renault,False,,17,32
+1,Nicole Morrow,2025-03-27,2025-03-27,2025-03-27,Grenta,Toyota,False,,23,7
+1,Holly Johnson,2025-04-26,2025-04-27,2025-04-27,Grenta,Renault,False,,5,20
+1,John Larsen,2024-12-21,2024-12-23,2024-12-24,Zeplin,Volkswagen,False,,25,38
+1,Wesley Johnson,2025-04-06,2025-04-08,2025-04-10,Sixt,Volkswagen,False,,5,62
+1,Katrina Miller,2025-03-24,2025-03-25,2025-03-25,Sixt,Volkswagen,False,,8,17
+1,Nancy Watson,2024-12-17,2024-12-18,2024-12-20,Enterprise,Fiat,False,,30,71
+1,Cameron Rogers,2025-02-07,2025-02-09,2025-02-10,Sixt,Fiat,False,,3,42
+1,Kathryn Bradshaw,2024-12-24,2024-12-27,2024-12-29,Sixt,Fiat,False,,2,70
+1,Austin Brown,2025-03-21,2025-03-21,2025-03-23,Sixt,Fiat,False,,16,53
+1,Kristin Miller,2025-01-07,2025-01-09,2025-01-10,Sixt,Renault,True,dirty car,4,29
+1,Marcus Welch,2025-05-13,2025-05-14,2025-05-16,Avis,Toyota,False,,21,59
+1,Albert Davidson,2025-04-27,2025-04-29,2025-04-29,Avis,Hyundai,False,,10,12
+1,Amy Sandoval,2025-05-07,2025-05-10,2025-05-11,Sixt,Fiat,False,,15,40
+1,Patricia Gardner,2025-04-13,2025-04-15,2025-04-15,Enterprise,Toyota,False,,13,9
+1,Matthew Valencia,2024-12-19,2024-12-19,2024-12-19,Sixt,Fiat,True,no GPS,16,16
+1,Bryan Parker,2025-01-31,2025-02-02,2025-02-04,Zeplin,Renault,False,,11,62
+1,Jaclyn Payne,2025-04-17,2025-04-18,2025-04-20,Grenta,Hyundai,False,,5,53
+1,Rebecca Hill,2025-02-24,2025-02-27,2025-02-27,Zeplin,Volkswagen,False,,23,6
+1,William Bradford,2025-03-22,2025-03-25,2025-03-25,Zeplin,Renault,True,delay,6,11
+1,Mark Deleon,2025-04-21,2025-04-21,2025-04-21,Grenta,Fiat,False,,8,7
+1,Craig Jacobson,2025-01-27,2025-01-29,2025-01-31,Enterprise,Fiat,False,,7,63
+1,Mark Graham,2025-02-25,2025-02-27,2025-03-01,Enterprise,Hyundai,False,,28,68
+1,Kristina Durham,2025-04-06,2025-04-08,2025-04-09,Sixt,Hyundai,False,,2,31
+1,Lauren Summers,2025-01-03,2025-01-06,2025-01-07,Zeplin,Hyundai,False,,13,30
+1,Amanda Fowler,2025-04-11,2025-04-12,2025-04-14,Enterprise,Hyundai,False,,24,64
+1,Dustin Rivera,2025-04-29,2025-04-30,2025-05-02,Avis,Fiat,False,,9,71
+1,Jeffrey Williams,2025-02-24,2025-02-26,2025-02-28,Grenta,Renault,True,dirty car,4,54
+1,Carl Fisher,2025-01-27,2025-01-28,2025-01-29,Grenta,Hyundai,False,,14,33
+1,William Armstrong,2025-01-22,2025-01-23,2025-01-24,Sixt,Toyota,False,,18,46
+1,Andrew Davis,2025-03-28,2025-03-29,2025-03-31,Zeplin,Hyundai,False,,7,60
+1,Jacqueline Little MD,2025-01-26,2025-01-29,2025-01-29,Enterprise,Renault,False,,11,23
+1,Craig Jones,2025-01-05,2025-01-08,2025-01-10,Avis,Toyota,False,,17,53
+1,Danielle Banks,2025-02-06,2025-02-08,2025-02-09,Avis,Fiat,False,,4,36
+1,Kristin Howard,2025-05-21,2025-05-21,2025-05-23,Enterprise,Fiat,False,,5,59
+1,Amanda Schwartz,2025-04-11,2025-04-11,2025-04-12,Grenta,Fiat,False,,22,30
+1,Matthew Lang,2025-03-06,2025-03-07,2025-03-09,Avis,Toyota,False,,3,66
+1,Jessica Mcclain,2025-05-31,2025-06-03,2025-06-03,Sixt,Toyota,True,no GPS,4,10
+1,Anne Smith,2025-04-02,2025-04-03,2025-04-04,Enterprise,Fiat,False,,13,46
+1,Shane Davidson,2025-04-18,2025-04-18,2025-04-20,Avis,Volkswagen,False,,27,71
+1,Michael Walker,2025-04-11,2025-04-13,2025-04-13,Zeplin,Fiat,False,,3,21
+1,David Allen,2025-04-01,2025-04-03,2025-04-03,Grenta,Volkswagen,False,,3,4
+1,Holly Fisher,2025-03-20,2025-03-23,2025-03-23,Zeplin,Renault,False,,8,8
+1,James Garcia,2025-04-17,2025-04-17,2025-04-19,Zeplin,Renault,False,,13,63
+1,Amanda Yates,2024-12-31,2025-01-01,2025-01-02,Grenta,Hyundai,True,no GPS,27,45
+1,Mackenzie Vincent,2025-01-14,2025-01-15,2025-01-17,Sixt,Volkswagen,False,,4,69
+1,Gregg Brady,2025-04-24,2025-04-24,2025-04-24,Zeplin,Hyundai,False,,6,19
+1,Scott Cruz,2025-05-08,2025-05-09,2025-05-10,Zeplin,Renault,False,,17,38
+1,Nicholas Richardson,2025-02-04,2025-02-04,2025-02-04,Sixt,Fiat,False,,25,4
+1,Joshua Collins,2025-02-16,2025-02-16,2025-02-18,Grenta,Fiat,False,,20,69
+1,Cynthia Thompson,2025-01-11,2025-01-11,2025-01-13,Sixt,Volkswagen,False,,4,54
+1,Ms. Jenna Ortega,2025-04-11,2025-04-12,2025-04-14,Sixt,Hyundai,True,dirty car,21,62
+1,Rachel Haynes,2025-03-10,2025-03-11,2025-03-13,Enterprise,Hyundai,True,no GPS,11,60
+1,Mr. Matthew Johnson,2025-03-11,2025-03-14,2025-03-15,Avis,Toyota,False,,20,35
+1,Michelle Johnson,2025-04-08,2025-04-09,2025-04-11,Avis,Hyundai,False,,11,49
+1,Kathy Davis,2025-04-24,2025-04-26,2025-04-27,Zeplin,Hyundai,False,,19,40
+1,Nancy Johnson,2025-04-24,2025-04-27,2025-04-27,Avis,Toyota,False,,4,8
+1,Tina Mora,2025-02-03,2025-02-05,2025-02-05,Sixt,Toyota,False,,28,8
+1,Haley Lewis,2025-05-16,2025-05-19,2025-05-19,Zeplin,Hyundai,False,,16,8
+1,Danny Lawson,2025-03-14,2025-03-15,2025-03-17,Sixt,Hyundai,False,,5,71
+1,Mr. Eric Taylor MD,2025-02-02,2025-02-05,2025-02-06,Enterprise,Fiat,False,,30,37
+1,Daniel Hernandez MD,2025-04-27,2025-04-27,2025-04-29,Enterprise,Hyundai,True,no GPS,6,68
+1,Lori Lee,2025-05-06,2025-05-09,2025-05-11,Grenta,Volkswagen,False,,30,66
+1,Sydney Jones,2025-04-14,2025-04-14,2025-04-15,Enterprise,Volkswagen,False,,29,43
+1,Cole Weaver,2025-02-28,2025-03-01,2025-03-02,Avis,Renault,False,,29,42
+1,Justin Reeves,2025-05-24,2025-05-25,2025-05-27,Sixt,Renault,False,,16,48
+1,Sarah Dickson,2025-04-15,2025-04-18,2025-04-19,Avis,Volkswagen,False,,19,38
+1,Jessica Gonzalez,2025-05-01,2025-05-01,2025-05-03,Grenta,Volkswagen,False,,18,52
+1,Alyssa Smith,2025-02-14,2025-02-15,2025-02-15,Avis,Toyota,True,dirty car,24,16
+1,Nicole Francis,2025-03-25,2025-03-27,2025-03-29,Zeplin,Toyota,True,delay,28,60
+1,Joshua Skinner,2025-01-01,2025-01-02,2025-01-04,Enterprise,Toyota,True,no GPS,2,54
+1,Cindy Vaughan,2024-12-20,2024-12-20,2024-12-20,Zeplin,Hyundai,False,,11,23
+1,April Kennedy,2025-02-13,2025-02-15,2025-02-16,Sixt,Hyundai,False,,23,25
+1,Tracey Salinas,2025-01-06,2025-01-07,2025-01-07,Zeplin,Fiat,False,,12,12
+1,Bryan Pugh,2025-04-25,2025-04-27,2025-04-27,Grenta,Fiat,False,,15,3
+1,Barbara Walsh,2025-02-13,2025-02-14,2025-02-16,Grenta,Fiat,False,,18,62
+1,Paul Olsen,2025-05-30,2025-06-01,2025-06-01,Avis,Fiat,True,delay,20,16
+1,Marie Brown,2025-03-16,2025-03-18,2025-03-18,Avis,Volkswagen,False,,11,22
+1,Michael Torres,2025-01-26,2025-01-26,2025-01-26,Enterprise,Volkswagen,True,no GPS,13,15
+1,James Vasquez,2025-01-08,2025-01-09,2025-01-09,Avis,Renault,False,,3,4
+1,Anthony Payne,2025-02-12,2025-02-13,2025-02-13,Avis,Renault,False,,4,1
+1,Denise Barnett,2025-03-19,2025-03-19,2025-03-19,Zeplin,Fiat,False,,13,14
+1,Patricia Ellis,2025-05-08,2025-05-08,2025-05-10,Zeplin,Fiat,False,,17,67
+1,Joan Lane,2024-12-20,2024-12-22,2024-12-23,Grenta,Toyota,False,,10,32
+1,Daniel Henderson,2025-04-01,2025-04-02,2025-04-03,Grenta,Fiat,True,delay,25,37
+1,Jenny Williams,2024-12-29,2025-01-01,2025-01-03,Sixt,Toyota,True,dirty car,3,57
+1,Brian Reeves,2025-01-16,2025-01-18,2025-01-19,Sixt,Fiat,False,,12,39
+1,Jacob Carr,2025-04-09,2025-04-11,2025-04-13,Enterprise,Fiat,False,,17,56
